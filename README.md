@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align='center'>
   
 [![Linkedin Badge](https://img.shields.io/badge/-Achraf.TAFFAH-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-taffah-b679a01aa/) [![Mail Badge](https://img.shields.io/badge/-@Achraf.TAFFAH-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/achraf_taffah/) [![Mail Badge](https://img.shields.io/badge/-Achraf.TAFFAH-c0392b?style=flat&labelColor=c0392b&logo=YOUTUBE&logoColor=white)](https://www.youtube.com/channel/UCxoar6KFc6u3beif_e4y3lw)
@@ -9,9 +9,9 @@
 
 <br />
 
-hi, i'm Achraf TAFFAH, a passionate self-taught full stack web developer and a freelance software engineer from morocco. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Achraf TAFFAH, a passionate self-taught full stack web developer and a freelance software engineer from morocco. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -19,7 +19,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](taffahachraf184@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-## Top Technologies
+📊 **Top Technologies**
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
@@ -37,7 +38,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
 ![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 Laravel   4 hrs 13 mins   █████████████▓░░░░░░░░░░░   54.63 % 
@@ -48,7 +49,7 @@ Github     10 mins         ▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-📈 my github stats
+📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TAFFAHACHRAF&show_icons=true&theme=gotham" alt="TAFFAHACHRAF" />
 
