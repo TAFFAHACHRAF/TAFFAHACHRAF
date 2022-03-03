@@ -48,7 +48,6 @@ Other        13 mins         ▓░░░░░░░░░░░░░░░░
 Github     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 <!--END_SECTION:waka-->
-![Essadeq's github stats](https://github-readme-stats.vercel.app/api?username=TAFFAHACHRAF)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAFFAHACHRAF)](https://github.com/essadeq-elaamiri/github-readme-stats)
 
 📈 My github stats
