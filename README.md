@@ -12,13 +12,14 @@
 
 
 ### Glad to see you here!  
-I am a full-stack developer who has been working in the programming field for many years and has been able to turn all that knowledge into a small private business of developing Scripts and 3D Modeling for videogames.
+I am Achraf TAFFAH from Casablanca, Morocco.
+Software engineering student at ENSET Mohammedia..
 
-I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 3D Modeling services for GTA V and DayZ.  
+Apart from coding, some other activities that I love to do!
   
  
-- 🔭 I’m currently working on [OXY3N STUDIO](https://oxy3n-studio.tebex.io/)  
-- 🌱 I’m currently learning PHP, JavaScript, TypeScript and Lua
+-  Playing Games 
+-  Writting Tech Blogs
 
 <br/>  
 
