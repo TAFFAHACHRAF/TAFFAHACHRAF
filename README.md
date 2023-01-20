@@ -99,7 +99,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
+  <a href="https://www.hackerrank.com/taffahachraf184?hr_r=1" target="_blank">
     <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
   </a>
 
@@ -107,7 +107,7 @@
     <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
   </a>
 
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
+  <a href="https://www.hackerrank.com/taffahachraf184?hr_r=1" target="_blank">
     <code><img height="60" width="60" src="SVG/he.svg"/></code>
   </a>
 
