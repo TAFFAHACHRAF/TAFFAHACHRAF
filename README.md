@@ -102,5 +102,3 @@
 </div>
 
 #
-
-![footer](WEBP/footer.webp)
