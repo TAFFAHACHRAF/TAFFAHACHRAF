@@ -80,45 +80,17 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
+  <a href="https://www.linkedin.com/in/achraf-taffah-b679a01aa/" target="_blank">
     <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+  <a href="https://www.instagram.com/achraf_taffah/" target="_blank">
     <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/taffahachraf184?hr_r=1" target="_blank">
-    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerrank.com/taffahachraf184?hr_r=1" target="_blank">
+  </a>  
+    <a href="https://www.hackerrank.com/taffahachraf184?hr_r=1" target="_blank">
     <code><img height="60" width="60" src="SVG/he.svg"/></code>
   </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
-  </a>
 </p>
+<br/>
 
 <br/>
 <br/>
