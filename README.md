@@ -72,14 +72,7 @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
-
-<h1>
-  Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
-</h1>
-
-<br/>
-<br/>
+<br>
 
 ###### Me as a JSON object
 ```json
