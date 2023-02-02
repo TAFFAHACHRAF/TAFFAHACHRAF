@@ -78,24 +78,8 @@
   <img src="GIF/Handshake.gif" height="25px">
 </h1>
 
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/achraf-taffah-b679a01aa/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/achraf_taffah/" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
-  </a>  
-    <a href="https://www.hackerrank.com/taffahachraf184?hr_r=1" target="_blank">
-    <code><img height="60" width="60" src="SVG/he.svg"/></code>
-  </a>
-</p>
-<br/>
-
 <br/>
 <br/>
-
-<div align="center">
 
 ###### Me as a JSON object
 ```json
