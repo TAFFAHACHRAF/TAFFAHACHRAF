@@ -97,6 +97,30 @@
 
 <div align="center">
 
+###### Me as a JSON object
+```json
+{
+  "name": "TAFFAH ACHRAF",
+  "age": 21.5,
+  "studies": "Computer science engineering, Software engineering",
+  "profile": "Software engineer",
+  "interests": ["Software dev"],
+  "speak": [
+    "Arabic",
+    "English",
+    "French"
+  ],
+  "All":"https://taffah-achraf.netlify.app"
+  "github": "https://github.com/TAFFAHACHRAF/TAFFAHACHRAF/",
+  "linkedIn": "linkedin.com/in/achraf-taffah-b679a01aa/",
+  "youtube": "https://www.youtube.com/channel/UCxoar6KFc6u3beif_e4y3lw"
+}
+```
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TAFFAHACHRAF" alt="taffah-achraf" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAFFAHACHRAF" alt="taffah-achraf" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TAFFAHACHRAF" alt="taffah-achraf" /> |
+|---|---|---|
+
+<!--<img align="center" src="https://raw.githubusercontent.com/3imed-jaberi/3imed-jaberi/master/assets/code.gif" alt="taffah-achraf" />-->
+
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
