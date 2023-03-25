@@ -2,9 +2,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/morocco/TAFFAHACHRAF.svg)](https://user-badge.committers.top/morocco/TAFFAHACHRAF)
 [![committers.top badge](https://user-badge.committers.top/morocco_public/TAFFAHACHRAF.svg)](https://user-badge.committers.top/morocco_public/TAFFAHACHRAF)
-[![committers.top badge](https://org-badge.committers.top/morocco/
-TL3B-HACKATHON.svg)](https://org-badge.committers.top/morocco/
-TL3B-HACKATHON)
+[![committers.top badge](https://org-badge.committers.top/morocco/TL3B-HACKATHON.svg)](https://org-badge.committers.top/morocco/TL3B-HACKATHON)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TAFFAHACHRAF&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
