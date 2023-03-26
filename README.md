@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=TAFFAHACHRAF&count_private=true&langs_count=9&layout=compact&theme=react&hide_border=true&hide=html,jupyter%20notebook&bg_color=0D1117)](https://github.com/TAFFAHACHRAF/github-readme-stats)
+
 | Language   |   Files |   Total Lines |   Code Lines |   Comment Lines |   Empty Lines |
 |:-----------|--------:|--------------:|-------------:|----------------:|--------------:|
 | JAVASCRIPT |    2752 |        350065 |       295832 |           16657 |         37576 |
@@ -21,4 +23,4 @@
 | SHELL      |       1 |             1 |            1 |               0 |             0 |
 | TOTAL      |    5389 |        966118 |       861606 |           27930 |         76582 |
 
-Last Update: 2023-03-26 17:41:01
+Last Update: 2023-03-26 21:27:02
