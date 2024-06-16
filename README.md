@@ -21,6 +21,7 @@
 - ⏰ In my free time, I like to experiment with new technologies and explore different software development methodologies.
 - 📩 If you're interested in collaborating on a project or discussing the latest tech trends, feel free to reach out to me. I'm always up for a good conversation!
 - connect with me:
+  
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-taffah-b679a01aa/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](taffahachraf184@gmail.com)
 
 ## Projects
