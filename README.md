@@ -20,7 +20,8 @@
 - 📚 Currently Software Engineer intern at Adria B&T, I'm continually honing my skills and contributing to innovative projects. With a strong foundation in Computer Science and hands-on experience in Java, Spring boot, ReactJs, I thrive in the dynamic world of software development.
 - ⏰ In my free time, I like to experiment with new technologies and explore different software development methodologies.
 - 📩 If you're interested in collaborating on a project or discussing the latest tech trends, feel free to reach out to me. I'm always up for a good conversation!
-- :iphone:  connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-taffah-b679a01aa/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](taffahachraf184@gmail.com)
+- connect with me:
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-taffah-b679a01aa/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](taffahachraf184@gmail.com)
 
 ## Projects
   
