@@ -23,29 +23,7 @@
 - connect with me:
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-taffah-b679a01aa/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](taffahachraf184@gmail.com)
-
-## Projects
   
-<table>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">My Secured auditing system</h3>
-      <p align="center">
-        <a href="" target="_blank" ref="noreferrer">
-          <img src="demo/piste_daudit.svg" alt="project example"/>
-        </a>
-        <a href="" target="_blank" ref="noreferrer">
-          <img src="https://img.shields.io/badge/Live-grey?style=for-the-badge">
-        </a>
-        <a href="" target="_blank" ref="noreferrer">
-          <img src="https://img.shields.io/badge/Live-grey?style=for-the-badge">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 <br>
 <br>
 <h3 align="left">Support:</h3>
